@@ -1,14 +1,14 @@
 Spires:
-  
+      
 Title Screen-
 Text:
 -Fly Slayer
--Start!
+-Start! 
 
 Stationary Sprites:
 -Grass Type 1
 -Grass Type 2
--Grass Type 3
+-Grass Type 3 
 -Blue Square Flower
 -Purple Circle Flower
 -Red Circle Flower
@@ -51,6 +51,7 @@ Stationary Sprites:
 
 Moving Sprites:
 -Knight
+   -Only the legs are animated when moving/jumping.
 -Sword
 -Fly
 -Boss Fly

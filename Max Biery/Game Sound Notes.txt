@@ -1,0 +1,58 @@
+START MENU
+	SOUNDS
+Functionalities	
+	-Start button has a low frequency stabbing sound
+
+Animals/Enemies	
+	-background noises of crickets
+	-occasional passing fly buzzing sound
+	-consistant tempo of chirpin sound
+	-very infrequent grass flutter sound
+	MUSIC
+Treble	
+	-soft flute
+	-very light piano chords
+Bass	
+	-bass strings, either upright or cello
+
+
+LEVEL/GAME
+	SOUNDS
+Character
+	-Walking sounds (Crunching Grass) engage upon stopping
+	-Jumping sound (sort of reverse whoosh, or gust of air, followed by a rolling sound)
+	-Hitting Dummy (Deeper clapping sound, mor low end frequencies)
+	-Breaking dummy (Breaking stick sound)
+	-Hitting Fly (Squash sound)
+	-Killing Fly (Squash sound with low fly hum)
+	-Taking Damage (Metalic kick sound)
+	-Death (Grunt + Metalic kick sound)
+
+	MUSIC
+Melody
+	-Harpsichord
+	-Clarinet
+	-Recorder or flute in higher octave
+	-Harp
+	-Cello Bassline
+Percussion
+	-Kick 	
+	-Shaker
+	-Tamberine
+
+
+GAME OVER
+	SOUNDS
+	-Try agaain button (Metalic kick sound)
+	
+	MUSIC
+	-Same as START Music
+
+THE END
+	SOUNDS
+	-Going Through Door(Gun cocking sound)
+	-Windmill (Wooden door Sound)
+
+	MUSIC
+	-Same as START Music
+	

@@ -1,5 +1,5 @@
 Spires:
-  
+
 Title Screen-
 Text:
 -Fly Slayer
@@ -51,6 +51,7 @@ Stationary Sprites:
 
 Moving Sprites:
 -Knight
+   -Only the legs are animated when moving/jumping.
 -Sword
 -Fly
 -Boss Fly

@@ -8,7 +8,7 @@ Text:
 Stationary Sprites:
 -Grass Type 1
 -Grass Type 2
--Grass Type 3
+-Grass Type 3 
 -Blue Square Flower
 -Purple Circle Flower
 -Red Circle Flower

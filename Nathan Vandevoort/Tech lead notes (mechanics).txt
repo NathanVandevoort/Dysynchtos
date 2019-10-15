@@ -1,9 +1,30 @@
-Sword Mechanics - only deals damage once sword passes through enemy
-Flies Damage - only deal damage on each new hit not a constant damage
-Flie pathing - two flies that move left and right (one at the beginning one at the end) One fly that moves in a rectangle formation after the first fly that moves left and right. 
-After the fly that flies in a rectangle there are 2 flies that fly vertically up and down at the same rate. Finally there is a very large "king fly" which goes left and right
-Player damage - each fly does about 10.666 percent of the players health bar.
-King fly damage- is the same as normal fly's 
-Fly's release a green particle effect
-When flys die they turn into a glowing dissapating white powder.
 Wind mill wheel idea.
+Wind mill uses the rotating wheel mechanic with an if statement saying that if the speed at which the wheel spins rotates too fast it will reset. 
+
+Flies:
+-Fly's release a green particle effect out of there back sides
+-When flys die they turn into a glowing dissapating white powder.
+-King fly damage is the same as normal fly's 
+-Player damage each fly does about 10.666 percent of the players health bar.
+-Fly pathing - two flies that move left and right (one at the beginning one at the end) One fly that moves in a rectangle formation after the first fly that moves left and right. 
+After the fly that flies in a rectangle there are 2 flies that fly vertically up and down at the same rate. Finally there is a very large "king fly" which goes left and right
+-Flies Damage only deal damage on each new hit not a constant damage
+
+
+
+Left right fly = 1
+Square fly = 2
+Up down fly = 3
+King fly = 4
+
+Order of flies: 1 2 3 3 1 4
+
+
+
+Sword:
+-Sword only deals damage once sword passes through enemy
+
+
+
+Player:
+-Both player and sword face toward mouse cursor on the X axis however only the sword faces toward the mouse cursor on both X and Y axis.

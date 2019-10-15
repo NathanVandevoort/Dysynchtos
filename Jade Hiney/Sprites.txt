@@ -1,0 +1,76 @@
+Spires:
+  
+Title Screen-
+Text:
+-Fly Slayer
+-Start!
+
+Stationary Sprites:
+-Grass Type 1
+-Grass Type 2
+-Grass Type 3
+-Blue Square Flower
+-Purple Circle Flower
+-Red Circle Flower
+-Yellow Circle Flower
+-Yellow Tall Flower
+-Yellow Bar
+
+Moving Sprites:
+-Fly
+-Green Particle Effect
+
+In Game-
+Text:
+-Health
+
+Stationary Sprites:
+-Grass Type 1
+-Grass Type 2
+-Grass Type 3
+-Bushes
+-Light Bushes
+-Dark Bushes
+-Blue Sqaure Flower
+-Red Square Flower
+-Red Circle Flower
+-Purple Circle Flower
+-Yellow Tall Flower
+-Double Yellow Tall Flower
+-Wagon
+-Tree Trunk
+-Tree Leaves
+-Triangle Tree Branches
+-Curved Tree Branches
+-Dummy
+-Windmill
+-Health Bar
+-Small Cloud 1
+-Small Cloud 2
+-Big Cloud
+
+Moving Sprites:
+-Knight
+-Sword
+-Fly
+-Boss Fly
+-Green Particle Effect
+-White Particle Effect
+-Windmill Sails
+-Mountains
+
+Death Screen-
+Text:
+-Game Over
+-Try Again
+
+Stationary Sprites:
+-Yellow Bar
+
+End Screen-
+Text:
+-The End
+-Replay
+
+Stationary Sprites:
+-Yellow Bar

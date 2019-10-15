@@ -3,7 +3,7 @@ Spires:
 Title Screen-
 Text:
 -Fly Slayer
--Start!
+-Start! 
 
 Stationary Sprites:
 -Grass Type 1

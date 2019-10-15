@@ -1,0 +1,14 @@
+Normal flies to be named off their pathing ie: "Horizontal_Fly_1" "Horizontal_Fly_2" "Box_Fly" "Vertical_Fly_1" "Vertical_Fly_2"
+Large fly is called "King_Fly"
+The knight is the "Knight"
+The sword is the "Sword"
+The training thingy that you can kill at the beginning is the "Dummy"
+The windmill is the "Windmill"
+The door on the windmill that you go through to end the game is the "Ending_Door"
+The health bar is the "Health_Bar"
+The trees are "Tree #(left - right)"
+The furthest mountain layer is "Mountains_2"
+The closer mountain layer is "Mountains_1"
+The buttons are "Start_Button" and "Restart_Button" respectivelly
+Each word is the name of the word ie: "GAME_OVER"
+

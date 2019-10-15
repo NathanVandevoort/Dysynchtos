@@ -9,7 +9,7 @@ Flies:
 -Fly pathing - two flies that move left and right (one at the beginning one at the end) One fly that moves in a rectangle formation after the first fly that moves left and right. 
 After the fly that flies in a rectangle there are 2 flies that fly vertically up and down at the same rate. Finally there is a very large "king fly" which goes left and right
 -Flies Damage only deal damage on each new hit not a constant damage
-
+-Flies have a health bar 2 hits per normal fly with the king fly taking 8 hits.
 
 
 Left right fly = 1
@@ -22,9 +22,17 @@ Order of flies: 1 2 3 3 1 4
 
 
 Sword:
--Sword only deals damage once sword passes through enemy
+-Sword only deals damage once sword contacts twice. 
 
+
+Dummy:
+-takes 8 hits
 
 
 Player:
 -Both player and sword face toward mouse cursor on the X axis however only the sword faces toward the mouse cursor on both X and Y axis.
+
+Notes:
+- grass sounds starts once characters stop moving
+- One tree in the center is transparent yet infront of one of the flies.
+- Camera drifts depending on which direction character is facing making the character take up only about the side third of the camera.

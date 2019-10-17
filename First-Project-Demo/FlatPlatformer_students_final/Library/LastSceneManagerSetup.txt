@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Flat Platformer Template/Scenes/MainMenu.unity
-=======
-- path: Assets/Flat Platformer Template/Scenes/GameOver.unity
->>>>>>> ce99a6881d350bb593604466ec10cdafabb96b19
   isLoaded: 1
   isActive: 1
   isSubScene: 0

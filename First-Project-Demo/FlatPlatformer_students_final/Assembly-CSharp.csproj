@@ -77,27 +77,6 @@
     <Compile Include="Assets\Flat Platformer Template\Scripts\WindMill.cs" />
     <None Include="Assets\Flat Platformer Template\Scripts\code files\test.txt" />
     <Reference Include="Unity.Timeline.Editor">
-<<<<<<< HEAD
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-=======
       <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
@@ -118,13 +97,6 @@
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
->>>>>>> 4ae07b69bd2bbed7cb04ab7febac3d9a5c0b0b7d
-    </Reference>
->>>>>>> ce99a6881d350bb593604466ec10cdafabb96b19
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
@@ -309,15 +281,6 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-<<<<<<< HEAD
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/diana.kudley/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
-=======
       <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
@@ -325,7 +288,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
->>>>>>> 4ae07b69bd2bbed7cb04ab7febac3d9a5c0b0b7d
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

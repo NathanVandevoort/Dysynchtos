@@ -161,7 +161,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -452, y: 213.07}
+  m_AnchoredPosition: {x: -595.9, y: -79.8}
   m_SizeDelta: {x: 76.14, y: 74.27}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &252809610
@@ -323,7 +323,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -452.7, y: 211.1}
+  m_AnchoredPosition: {x: -596.60004, y: -81.77005}
   m_SizeDelta: {x: 76.14, y: 74.265}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &524966681
@@ -376,7 +376,6 @@ GameObject:
   - component: {fileID: 742416275}
   - component: {fileID: 742416274}
   - component: {fileID: 742416279}
-  - component: {fileID: 742416280}
   - component: {fileID: 742416276}
   m_Layer: 0
   m_Name: Main Camera
@@ -569,28 +568,6 @@ MonoBehaviour:
   damping: 0.9
   _target: {fileID: 24600428}
   offset: {x: 9, y: 7}
---- !u!114 &742416280
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 742416273}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 46a3f4f71d419394dbe20f906a38ef37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parallaxMode: 0
-  _backGrounds:
-  - _backGround: {fileID: 0}
-    _damping: 30
-  - _backGround: {fileID: 0}
-    _damping: 35
-  - _backGround: {fileID: 0}
-    _damping: 35
-  - _backGround: {fileID: 0}
-    _damping: 35
 --- !u!1 &857194085
 GameObject:
   m_ObjectHideFlags: 0
@@ -670,7 +647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4146993719749546, guid: 900544f289a6c68429b69f8b259d2a96, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4146993719749546, guid: 900544f289a6c68429b69f8b259d2a96, type: 3}
       propertyPath: m_LocalScale.x
@@ -836,7 +813,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -373.66, y: 265.5}
+  m_AnchoredPosition: {x: -517.56006, y: -27.370056}
   m_SizeDelta: {x: 162.92, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1546026970
@@ -1035,7 +1012,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2056524766
 PrefabInstance:
@@ -1082,6 +1059,51 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4110779522632870, guid: ed18ae643e6150e48a215de290a44235, type: 3}
       propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 252809610}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: HealthUpdate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DeathFunctions.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 8300000, guid: 683452795901be84da74d4b5a518e203, type: 3}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DeathFunctions.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
+        type: 3}
+      propertyPath: DestroyAtZero
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 50860677075071130, guid: ed18ae643e6150e48a215de290a44235,
@@ -1133,51 +1155,6 @@ PrefabInstance:
         type: 3}
       propertyPath: WalkSpeed
       value: 900
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 252809610}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: HealthUpdate
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DamageFunctions.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DeathFunctions.m_PersistentCalls.m_Calls.Array.data[2].m_Target
-      value: 
-      objectReference: {fileID: 8300000, guid: 683452795901be84da74d4b5a518e203, type: 3}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DeathFunctions.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1838383588033684864, guid: ed18ae643e6150e48a215de290a44235,
-        type: 3}
-      propertyPath: DestroyAtZero
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5233892114347147315, guid: ed18ae643e6150e48a215de290a44235,
         type: 3}

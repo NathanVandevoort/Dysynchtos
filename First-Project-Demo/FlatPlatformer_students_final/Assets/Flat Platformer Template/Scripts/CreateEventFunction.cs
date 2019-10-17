@@ -11,4 +11,13 @@ public class CreateEventFunction : MonoBehaviour
 {
     public GameObject ObjectToMake;
 
+
+    //function can be run to create given object
+    public void CreateObject()
+    {
+        Instantiate(ObjectToMake, transform.position, transform.rotation);
+    }
+
+
+// This could be number 99
 }

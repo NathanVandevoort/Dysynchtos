@@ -12,5 +12,6 @@ public class DelayedSceneChange : MonoBehaviour
     public float Delay = 0.0f;
     //name of level to load
     public string NextScene = "GameOver";
-    
+
+
 }

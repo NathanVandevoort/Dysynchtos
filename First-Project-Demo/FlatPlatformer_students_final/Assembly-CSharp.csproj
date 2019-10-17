@@ -82,6 +82,9 @@
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jade.hiney/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>C:/Users/jade.hiney/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
@@ -92,7 +95,11 @@
       <HintPath>C:/Users/jade.hiney/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
+<<<<<<< HEAD
       <HintPath>C:/Users/jade.hiney/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+=======
+      <HintPath>C:/Users/nathan.vandevoort/Desktop/Dysynchtos/First-Project-Demo/FlatPlatformer_students_final/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> e7e00ce3cf0229980d268fb8272e38f6060b44b9
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

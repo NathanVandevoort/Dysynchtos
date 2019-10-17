@@ -14,6 +14,9 @@ public class DelayedSceneChange : MonoBehaviour
     public string NextScene = "GameOver";
 
 
+
+
+
     //function will change scene after a specified delay when run
     public void ChangeScene()
     {
@@ -30,6 +33,7 @@ public class DelayedSceneChange : MonoBehaviour
         print("after");
         SceneManager.LoadScene(NextScene);
     }
+
 
 
 

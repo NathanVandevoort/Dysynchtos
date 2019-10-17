@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Flat Platformer Template/Scenes/Demo.unity
+    guid: 7beebdc2d140ece46a9735165d32b032
+  - enabled: 1
+    path: Assets/Flat Platformer Template/Scenes/EndScene.unity
+    guid: ec9da022dc4ceb6409d5c2dcf955eb61
+  - enabled: 1
+    path: Assets/Flat Platformer Template/Scenes/GameOver.unity
+    guid: 0096438a729c842408ade2dfcdc75879
+  - enabled: 1
+    path: Assets/Flat Platformer Template/Scenes/MainMenu.unity
+    guid: 0efb487a7c60831449ae8c0e7a8b3a15
   m_configObjects: {}
